@@ -62,3 +62,4 @@ if __name__ == "__main__":
 4. hapus salah satu data
 ![Screenshot (427)](https://github.com/user-attachments/assets/33aff9a2-fdd3-48f8-96aa-ed9bc8f93906)
 
+5. selesai
