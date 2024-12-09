@@ -4,7 +4,7 @@
 
 # Pyhton 
 
-
+```
 import tkinter as tk
 from view.input_form import InputForm
 from view.mahasiswa import MahasiswaView
