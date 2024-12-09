@@ -47,3 +47,6 @@ if __name__ == "__main__":
     app = MainApp(root)
     root.mainloop()
 ```
+
+# Hasil Pyhton
+
