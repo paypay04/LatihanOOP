@@ -50,3 +50,4 @@ if __name__ == "__main__":
 
 # Hasil Pyhton
 
+<img width="222" alt="Screenshot 2024-12-09 142732" src="https://github.com/user-attachments/assets/331e8dae-0867-43e2-b630-f318e3c222f5">
