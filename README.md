@@ -50,4 +50,15 @@ if __name__ == "__main__":
 
 # Hasil Pyhton
 
-<img width="222" alt="Screenshot 2024-12-09 142732" src="https://github.com/user-attachments/assets/331e8dae-0867-43e2-b630-f318e3c222f5">
+1. tampilan awal
+![Screenshot (415)](https://github.com/user-attachments/assets/444ef14f-8e64-4392-94af-8f059b62aca9)
+
+2. masukan data (nama, nim, jurusan)
+![Screenshot (419)](https://github.com/user-attachments/assets/27605805-9f1f-414a-8360-0437a7faf44a)
+
+3. ubah data salah satu data
+![Screenshot (425)](https://github.com/user-attachments/assets/f183a786-8c5a-4a65-a38d-d95fb0d4669f)
+
+4. hapus salah satu data
+![Screenshot (427)](https://github.com/user-attachments/assets/33aff9a2-fdd3-48f8-96aa-ed9bc8f93906)
+
